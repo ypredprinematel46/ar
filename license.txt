@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chemistrybulbsinprogress
+* source:	https://sketchfab.com/3d-models/chemistrybulbsinprogress-1a106d376e2f48a69626533ca585eb66
+* author:	scandicactus (https://sketchfab.com/scandicactus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chemistrybulbsinprogress" (https://sketchfab.com/3d-models/chemistrybulbsinprogress-1a106d376e2f48a69626533ca585eb66) by scandicactus (https://sketchfab.com/scandicactus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
